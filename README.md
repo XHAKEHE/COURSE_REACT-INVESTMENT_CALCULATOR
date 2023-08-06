@@ -1,5 +1,6 @@
 # COURSE REACT - INVESTMENT CALCULATOR
 Simple web investment calculator component made with React.
+
 Basic React concepts were practiced such as component building structure, useState hook, lifting state up and passing data via props.
 
 The assignement is part of Udemy Course: React - The Complete Guide 2023 (incl. React Router & Redux)
